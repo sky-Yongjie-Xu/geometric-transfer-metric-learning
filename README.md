@@ -16,7 +16,7 @@ Part 2 - Framework of GTML for scarce labeled samples (SLS) task:
 
 The model can be run by executing SLS_GTML_A_main.m and SLS_GTML_R_main.m in the code directory.
 
-Results
+Note
 =============
 All the algorithms are implemented and run using MATLAB 2018b. 
 
