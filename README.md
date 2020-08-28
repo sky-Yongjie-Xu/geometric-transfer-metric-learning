@@ -27,4 +27,7 @@ References
 Contact
 ========
 If you have any problem about this library, please create an Issue or send us an Email at:
-sky.yongjie.xu@hotmail.com
+
+* sky.yongjie.xu@hotmail.com
+* haitaolang@hotmail.com
+
