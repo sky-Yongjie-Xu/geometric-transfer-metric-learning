@@ -22,6 +22,8 @@ All the algorithms are implemented and run using MATLAB 2018b.
 
 All the experiments are run on an Intel(R) Core(TM) i7-6800K Processor 3.4 GHz machine, with 64 GB RAM and Windows 10 Professional standard operation system. 
 
+If the above conditions cannot be met, please search for hyperparameters again according to the following scope: [0.001, 0.01, 0.1, 1, 10, 100, 1000].
+
 References
 ==========
 [1] M. Grant and S. Boyd, “CVX: Matlab software for disciplined convex programming, version 2.1,” http://cvxr.com/cvx, Mar. 2014.
