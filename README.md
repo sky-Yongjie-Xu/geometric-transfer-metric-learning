@@ -4,13 +4,13 @@ This package contains the code for the paper ''Ship Classiﬁcation in SAR Image
 
 This article has been submitted to the journal of IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING.
 
-## Framework of zero labeled sample (ZLS) task:
+Part 1 - Framework of GTML for zero labeled sample (ZLS) task:
 ---------------------------------------
 ![image](image/ZLS_framework.pdf)
 
 The model can be run by executing ZLS_GTML_A_main.m and ZLS_GTML_R_main.m in the code directory.
 
-## Framework of scarce labeled samples (SLS) task:
+Part 2 - Framework of GTML for scarce labeled samples (SLS) task:
 ------------------------------------------
 ![image](image/SLS_framework.pdf)
 
@@ -18,6 +18,7 @@ The model can be run by executing SLS_GTML_A_main.m and SLS_GTML_R_main.m in the
 
 Running model
 =============
+
 
 References
 ==========
