@@ -2,7 +2,7 @@ Geometric Transfer Metric Learning (GTML)
 =========================================
 This package contains the code for the paper ''Ship Classiﬁcation in SAR Images with Geometric Transfer Metric Learning''.
 
-This article has been submitted to the journal of IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING.
+This paper has been submitted to the journal of IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING.
 
 Part 1 - Framework of GTML for zero labeled sample (ZLS) task:
 ---------------------------------------
@@ -23,3 +23,8 @@ Running model
 References
 ==========
 [1] M. Grant and S. Boyd, “CVX: Matlab software for disciplined convex programming, version 2.1,” http://cvxr.com/cvx, Mar. 2014.
+
+Contact
+========
+If you have any problem about this library, please create an Issue or send us an Email at:
+sky.yongjie.xu@hotmail.com
