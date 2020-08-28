@@ -1,13 +1,17 @@
 Geometric Transfer Metric Learning (GTML)
 =========================================
 
-## Zero labeled sample (ZLS) framework:
+## Framework of zero labeled sample (ZLS) task:
 ---------------------------------------
 ![image](image/ZLS_framework.pdf)
 
-## Scarce labeled samples (SLS) framework:
+The model can be run by executing ZLS_GTML_A_main.m and ZLS_GTML_R_main.m in the code directory.
+
+## Framework of scarce labeled samples (SLS) task:
 ------------------------------------------
 ![image](image/SLS_framework.pdf)
+
+The model can be run by executing SLS_GTML_A_main.m and SLS_GTML_R_main.m in the code directory.
 
 Running model
 =============
