@@ -18,9 +18,9 @@ The model can be run by executing SLS_GTML_A_main.m and SLS_GTML_R_main.m in the
 
 Results
 =============
-All the algorithms are implemented and run using MATLAB. 
+All the algorithms are implemented and run using MATLAB 2018b. 
 
-All the experiments are run on an AMD Processor 2.4 GHz machine, with 16 ˙GB RAM and Windows Server 2008 R2 standard operation system. 
+All the experiments are run on an Intel(R) Core(TM) i7-6800K Processor 3.4 GHz machine, with 64 GB RAM and Windows 10 Professional standard operation system. 
 
 References
 ==========
