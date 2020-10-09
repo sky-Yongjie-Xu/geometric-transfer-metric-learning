@@ -2,8 +2,6 @@ Geometric Transfer Metric Learning (GTML)
 =========================================
 This package contains the code for the paper ''Ship Classiﬁcation in SAR Images with Geometric Transfer Metric Learning''.
 
-This paper has been accepted by the journal of IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING.
-
 Part 1 - Framework of GTML for zero labeled sample (ZLS) task:
 ---------------------------------------
 ![image](image/ZLS_framework.pdf)
